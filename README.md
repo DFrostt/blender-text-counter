@@ -1,3 +1,2 @@
-# Text Counter plugin for Blender
-## More Info / Download
-https://leomoon.com/downloads/plugins/blender-text-counter/
+# Fork Text Counter plugin for Blender 2.8 beta version.
+
